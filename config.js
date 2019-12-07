@@ -46,7 +46,9 @@ var config = {
 					{
 						symbol: "calendar-check",
 						url: "webcal://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics"					}
-				]
+				],
+				timeFormat: "12",
+				showPeriod: "true"
 			}
 		},
 		{
@@ -78,7 +80,9 @@ var config = {
 			config: {
 				location: "San Francisco",
 				locationID: "5391997",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: "1793809586634c6e147ed23aca3f4b8b"
+				appid: "1793809586634c6e147ed23aca3f4b8b",
+				units: "imperial",
+				roundTemp: "true"
 			}
 		},
 		{
