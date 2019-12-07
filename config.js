@@ -55,7 +55,7 @@ var config = {
 			config: {
 				compliments: {
 					anytime: [
-						"Pulled from Github!"
+						"Love you gorgeous"
 					]
 			}
 		}
