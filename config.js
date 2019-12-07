@@ -51,7 +51,14 @@ var config = {
 		},
 		{
 			module: "compliments",
-			position: "lower_third"
+			position: "lower_third",
+			config: {
+				compliments: {
+					anytime: [
+						"Pulled from Github!"
+					]
+			}
+		}
 		},
 		{
 			module: "currentweather",
