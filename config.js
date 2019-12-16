@@ -57,7 +57,7 @@ var config = {
 			config: {
 				compliments: {
 					anytime: [
-						"Love you gorgeous"
+						"DAMN you look good"
 					]
 			}
 		}
