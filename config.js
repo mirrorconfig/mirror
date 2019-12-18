@@ -57,7 +57,7 @@ var config = {
 			config: {
 				compliments: {
 					anytime: [
-						"DAMN you look good"
+						"Check the desk for a surprise :)"
 					]
 			}
 		}
