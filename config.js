@@ -57,7 +57,7 @@ var config = {
 			config: {
 				compliments: {
 					anytime: [
-						"Check the desk for a surprise :)"
+						"Dorian Holiday Party w/ James"
 					]
 			}
 		}
