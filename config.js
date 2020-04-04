@@ -57,7 +57,7 @@ var config = {
 			config: {
 				compliments: {
 					anytime: [
-						"I love you Jack"
+						""
 					]
 			}
 		}
